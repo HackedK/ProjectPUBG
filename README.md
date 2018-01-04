@@ -7,6 +7,9 @@ requirement:
 1. Node JS
 2. redis server configuration
 3. API-key (available in https://pubgtracker.com/site-api)
+4. Javascript
+5. PHP
+6. MySQL
 ---------------------------------------------------------------------------------------------------------------------------
 # User Manual
 
